@@ -1,23 +1,38 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Not Found</title>
+        <title>Welcome</title>
         <style>
             body {
+                font-family: sans-serif;
                 margin: 0;
                 height: 100vh;
+                display: flex;
+                flex-direction: column;
                 text-align: center;
+            }
+
+            main {
+                flex-grow: 1;
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
-                font-family: sans-serif;
+            }
+
+            footer {
+                background-color: #2e2e2e;
+                color: white;
+                padding: 1rem;
             }
         </style>
     </head>
     <body style="background-color: {{ background }}">
-        <h1>
-            Simple MVC PHP<br><small>Now with Docker!</small>
-        </h1>
-        Version {{ version }}
+        <main>
+            <h1>Simple MVC PHP</h1>
+            <span>Now with Docker!</span>
+        </main>
+        <footer>
+            Version {{ version }}
+        </footer>
     </body>
 </html>
