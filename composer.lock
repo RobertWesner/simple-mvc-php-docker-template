@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5b3a8c97a5a9a64857047fe2baaca6a5",
+    "content-hash": "dfc23b5501dad76db1110723d670be90",
     "packages": [
         {
             "name": "graham-campbell/result-type",
@@ -466,16 +466,16 @@
         },
         {
             "name": "robertwesner/dependency-injection",
-            "version": "v1.3.0",
+            "version": "v1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/RobertWesner/dependency-injection.git",
-                "reference": "35157d30b6cce78e408c27825b583eb62a33cb01"
+                "reference": "7b6377415adc874fb864211c695fa93ffab00e92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RobertWesner/dependency-injection/zipball/35157d30b6cce78e408c27825b583eb62a33cb01",
-                "reference": "35157d30b6cce78e408c27825b583eb62a33cb01",
+                "url": "https://api.github.com/repos/RobertWesner/dependency-injection/zipball/7b6377415adc874fb864211c695fa93ffab00e92",
+                "reference": "7b6377415adc874fb864211c695fa93ffab00e92",
                 "shasum": ""
             },
             "require": {
@@ -514,22 +514,22 @@
             "description": "A fun PSR-11 container implementation",
             "support": {
                 "issues": "https://github.com/RobertWesner/dependency-injection/issues",
-                "source": "https://github.com/RobertWesner/dependency-injection/tree/v1.3.0"
+                "source": "https://github.com/RobertWesner/dependency-injection/tree/v1.3.1"
             },
-            "time": "2025-05-29T13:20:03+00:00"
+            "time": "2025-06-04T18:03:54+00:00"
         },
         {
             "name": "robertwesner/simple-mvc-php",
-            "version": "v0.10.0",
+            "version": "v0.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/RobertWesner/simple-mvc-php.git",
-                "reference": "11ed1bd84c6b9348cd433d58987ccc218d4b4137"
+                "reference": "f8967906bf0a9fc2f3c4f00a5263e902594bbcc1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RobertWesner/simple-mvc-php/zipball/11ed1bd84c6b9348cd433d58987ccc218d4b4137",
-                "reference": "11ed1bd84c6b9348cd433d58987ccc218d4b4137",
+                "url": "https://api.github.com/repos/RobertWesner/simple-mvc-php/zipball/f8967906bf0a9fc2f3c4f00a5263e902594bbcc1",
+                "reference": "f8967906bf0a9fc2f3c4f00a5263e902594bbcc1",
                 "shasum": ""
             },
             "require": {
@@ -565,9 +565,9 @@
             "description": "A small library for creating PHP web servers.",
             "support": {
                 "issues": "https://github.com/RobertWesner/simple-mvc-php/issues",
-                "source": "https://github.com/RobertWesner/simple-mvc-php/tree/v0.10.0"
+                "source": "https://github.com/RobertWesner/simple-mvc-php/tree/v0.11.0"
             },
-            "time": "2025-06-04T16:30:31+00:00"
+            "time": "2025-06-08T14:29:19+00:00"
         },
         {
             "name": "softcreatr/jsonpath",
